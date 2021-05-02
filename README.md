@@ -1,39 +1,19 @@
-## Welcome to GitHub Pages
+# Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/vishrutkmr7/vishrutkmr7.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Vishrut Jha from Tempe, AZ. I am an incoming grad student at [ASU's Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/), and I'll be studying Computer Science (MS)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🔭 I’m currently working at [Compliance Group, Inc.](https://www.complianceg.com/)
+- 🌱 I’m currently learning Python, AI, NLP, and Knowledge Representation
+- 💬 Ask me about soccer⚽ at any time of the day (and we all know that [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi) is the [:goat:](https://www.urbandictionary.com/define.php?term=goat))
+- 📫 How to reach me: [Stack Overflow](https://stackoverflow.com/users/8020018/vishrut-jha), [Twitter](https://www.twitter.com/vishrutkmr7), [LinkedIn](https://www.linkedin.com/in/vishrutkmr7)
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: There's a basketball court on the top floor of the U.S. Supreme Court Building. Its nickname? You guessed it: "the highest court in the land."
+- 📖 Useful reads: [The Tao of Programming](http://www.mit.edu/~xela/tao.html), [Modest advice](https://stearnslab.yale.edu/modest-advice) that I live by as a Graduate Student
 
-### Markdown
+[![Vishrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishrutkmr7&include_all_commits=true&show_owner=true&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-```markdown
-Syntax highlighted code block
+_NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
-# Header 1
-
-## Header 2
-
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vishrutkmr7/vishrutkmr7.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![Vishrut's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
