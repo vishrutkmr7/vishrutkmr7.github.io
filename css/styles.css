@@ -6029,6 +6029,11 @@ a.close.disabled {
   border-left-color: #000;
 }
 
+.snapcode{
+  height: 15rem;
+  width: 12rem;
+}
+
 .tooltip-inner {
   max-width: 200px;
   padding: 0.25rem 0.5rem;
