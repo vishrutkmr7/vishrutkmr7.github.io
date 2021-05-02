@@ -10504,6 +10504,9 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
+.dev-icon:hover {
+  color: #bd5d38;
+}
 
 section.resume-section {
   display: flex;
