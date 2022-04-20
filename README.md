@@ -17,3 +17,7 @@ I am Vishrut Jha from Tempe, AZ. I am an incoming grad student at [ASU's Ira A. 
 _NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 [![Vishrut's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Chanchal1603/github-visitors-counter">
+    <img src="https://komarev.com/ghpvc/?username=vishrutkmr7&style=plastic">
+</a>
