@@ -21,3 +21,6 @@ _NOTE: Top languages do not indicate my skill level or something like that, it's
 <a href="https://github.com/Chanchal1603/github-visitors-counter">
     <img src="https://komarev.com/ghpvc/?username=vishrutkmr7&style=plastic">
 </a>
+
+#### My GitHub profile trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishrutkmr7)](https://github.com/ryo-ma/github-profile-trophy)
