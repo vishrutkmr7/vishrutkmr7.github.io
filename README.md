@@ -29,4 +29,4 @@ _NOTE: Top languages do not indicate my skill level or something like that, it's
 
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vishrutkmr7)
 
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=22ujr32t4ezgt244ois3pfigy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22ujr32t4ezgt244ois3pfigy&cover_image=true&theme=default&bar_color_cover=true)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ujr32t4ezgt244ois3pfigy&cover_image=true&theme=default)
