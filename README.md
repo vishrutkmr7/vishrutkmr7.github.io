@@ -17,3 +17,16 @@ I am Vishrut Jha from Tempe, AZ. I am an incoming grad student at [ASU's Ira A. 
 _NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 [![Vishrut's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishrutkmr7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Chanchal1603/github-visitors-counter">
+    <img src="https://komarev.com/ghpvc/?username=vishrutkmr7&style=plastic">
+</a>
+
+#### My GitHub profile trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishrutkmr7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vishrutkmr7&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+[<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/vishrutkmr7)
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ujr32t4ezgt244ois3pfigy&cover_image=true&theme=default)
