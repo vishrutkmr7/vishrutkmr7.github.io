@@ -538,17 +538,13 @@
               <span class="fa-li"
                 ><i class="fas fa-trophy text-warning"></i
               ></span>
-              <script>
-                n = new Date();
-                y = n.getFullYear();
-                m = n.getMonth() + 1;
-                d = n.getDate();
-                document.getElementById("date").innerHTML =
-                  m + "/" + d + "/" + y;
-              </script>
               Ranked top 70,000 in the world on
               <a href="https://leetcode.com/vishrutkmr7/">LeetCode></a> (as of
-              <p id="date"></p>
+              <p>
+                <script>
+                  document.write(new Date().toLocaleDateString());
+                </script>
+              </p>
               )
             </li>
             <li>
