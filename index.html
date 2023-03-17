@@ -534,25 +534,24 @@
         <div class="resume-section-content">
           <h2 class="mb-5">Awards & Certifications</h2>
           <ul class="fa-ul mb-0">
+            <script>
+              // fetch data from API and store the resultant JSON
+              const username = "vishrutkmr7";
+              const url = `https://flask-leetcode-api.vercel.app/my-leetcode-rank/${username}`;
+              fetch(url)
+                .then((response) => response.json())
+                .then((data) => {
+                  const rank = data["rank"];
+                  const solved = data["solved"];
+                  const easy = data["easy"];
+                  const medium = data["medium"];
+                  const hard = data["hard"];
+                  const leetcodeRank = document.getElementById("leetcode-rank");
+                  leetcodeRank.title = `Easy: ${easy}, Medium: ${medium}, Hard: ${hard}`;
+                  leetcodeRank.innerHTML = `Ranked top ${rank} in the world on <a href="https://leetcode.com/${username}/">LeetCode</a> (as of on <span>${new Date().toLocaleDateString()}</span>)`;
+                });
+            </script>
             <li id="leetcode-rank">
-              <script>
-                // fetch data from API and store the resultant JSON
-                const username = "vishrutkmr7";
-                const url = `https://flask-leetcode-api.vercel.app/my-leetcode-rank/${username}`;
-                fetch(url)
-                  .then((response) => response.json())
-                  .then((data) => {
-                    const rank = data["rank"];
-                    const solved = data["solved"];
-                    const easy = data["easy"];
-                    const medium = data["medium"];
-                    const hard = data["hard"];
-                    const leetcodeRank =
-                      document.getElementById("leetcode-rank");
-                    leetcodeRank.title = `Easy: ${easy}, Medium: ${medium}, Hard: ${hard}`;
-                    leetcodeRank.innerHTML = `Ranked top ${rank} in the world on <a href="https://leetcode.com/${username}/">LeetCode</a> (as of on <span>${new Date().toLocaleDateString()}</span>)`;
-                  });
-              </script>
               <span class="fa-li"
                 ><i class="fas fa-trophy text-warning"></i
               ></span>
