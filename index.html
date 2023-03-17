@@ -34,6 +34,19 @@
         y.parentNode.insertBefore(t, y);
       })(window, document, "clarity", "script", "6j21wxuylj");
     </script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+    <script>
+      (async () => {
+        // create anonymous async function to enable await
+        const pyodide = await loadPyodide();
+        console.log(
+          pyodide.runPython(`
+    import sys
+    sys.version
+        `)
+        );
+      })(); // call the async function immediately
+    </script>
     <meta charset="utf-8" />
     <meta
       name="viewport"
