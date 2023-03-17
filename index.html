@@ -39,6 +39,17 @@
       (async () => {
         // create anonymous async function to enable await
         const pyodide = await loadPyodide();
+        languagePluginLoader.then(() => {
+          // Install the bs4 module
+          pyodide
+            .loadPackage("bs4")
+            .then(() => {
+              console.log("bs4 module installed successfully");
+            })
+            .catch((error) => {
+              console.error("Error installing bs4 module:", error);
+            });
+        });
         pyodide.runPython(`
     import requests
     from bs4 import BeautifulSoup
