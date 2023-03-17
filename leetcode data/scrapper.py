@@ -33,9 +33,14 @@ def get_rank(profile):
 
     solved = int(easy) + int(medium) + int(hard)
 
-    return rank, solved
+    return {
+        "rank": rank,
+        "solved": solved,
+        "easy": easy,
+        "medium": medium,
+        "hard": hard,
+    }
 
 
 if __name__ == "__main__":
-    rnk, slvd = get_rank("https://leetcode.com/vishrutkmr7/")
-    print(rnk, slvd)
+    res = get_rank("https://leetcode.com/vishrutkmr7/")

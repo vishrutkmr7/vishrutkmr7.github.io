@@ -39,12 +39,50 @@
       (async () => {
         // create anonymous async function to enable await
         const pyodide = await loadPyodide();
-        console.log(
-          pyodide.runPython(`
-    import sys
-    sys.version
-        `)
+        pyodide.runPython(`
+    import requests
+    from bs4 import BeautifulSoup
+
+    def get_rank(profile):
+      response = requests.get(profile, timeout=5)
+      soup = BeautifulSoup(response.content, "html.parser")
+
+      rank = soup.find(
+          "span", {"class": "ttext-label-1 dark:text-dark-label-1 font-medium"}
+      ).text
+      easy = soup.find_all(
+          "span",
+          {
+              "class": "mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1"
+          },
+      )[0].text
+      medium = soup.find_all(
+          "span",
+          {
+              "class": "mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1"
+          },
+      )[1].text
+      hard = soup.find_all(
+          "span",
+          {
+              "class": "mr-[5px] text-base font-medium leading-[20px] text-label-1 dark:text-dark-label-1"
+          },
+      )[2].text
+
+      solved = int(easy) + int(medium) + int(hard)
+
+      return {
+          "rank": rank,
+          "solved": solved,
+          "easy": easy,
+          "medium": medium,
+          "hard": hard,
+      }
+        `);
+        const rank = pyodide.globals.get("get_rank")(
+          "https://leetcode.com/vishrutkmr7/"
         );
+        console.log(rank);
       })(); // call the async function immediately
     </script>
     <meta charset="utf-8" />
