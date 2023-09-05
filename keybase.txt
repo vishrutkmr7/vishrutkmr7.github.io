@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/vishrutjha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vishrutkmr7.github.io
+  * I am vishrutjha (https://keybase.io/vishrutjha) on keybase.
+  * I have a public key with fingerprint 55FF 3ED1 D768 16A8 A1D9  9809 65C0 7A95 023F 2CA4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012b69db6de3f36261a0f6ef68a9700306e9f909af83842c430fb01bcc77c1d85e0a",
+      "fingerprint": "55ff3ed1d76816a8a1d9980965c07a95023f2ca4",
+      "host": "keybase.io",
+      "key_id": "65c07a95023f2ca4",
+      "kid": "01012b69db6de3f36261a0f6ef68a9700306e9f909af83842c430fb01bcc77c1d85e0a",
+      "uid": "1b79ef3f5105aacb9d77b0f7ddb3f319",
+      "username": "vishrutjha"
+    },
+    "service": {
+      "hostname": "vishrutkmr7.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1693873757,
+  "expire_in": 157680000,
+  "prev": "7d9d3059bf576e2471fbcbef1050378974e6a2b9fcfc609db25387977066dee9",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMItAnicrZJbSFRBGMfXLmqmYSjZi0WHjAJZ5uzZc+bM9iBdMLpAZUlgxXLmzMzu
+yXXP7jlnVzOESougKMKHLNu2GxX2oBF2sRSTQMoiAn0IQgmth4roamDXOVYPQY/N
+yzDf/L/f/L8/czdvqicnQ2p/OXi4Q+3PGLhzNuEh48ntuwRskp1CYJdQTSc3GiHU
+doLVBhECAhCB6MMKIlghVGKS4lNEDTCFMkXVEARAAgpFDAGkMVVS/T7dLwGGgYh1
+HUJdJKpMgSaUCsyIhqgVs4yow7GyzJhEiUigooqKpmoiQUgFSJF1ADUkA5/EfLrm
+541h03Y7uDms2dRrmLzGD8FJe//Q/2ffiUmciCGiTGKyCGRN0zEiEGLAICGYw0Xk
+Cm1qRbUaytVJww5bCWdHWBMaSgVeTxo6daN1Z/lbU11jQW/IcMIJ/Gu0mGU6pm5G
+uCTsODE74CKcnTG3p5bi4G9aEBtRwiPlHUlq2YYZFQIiV+qO4eJFBUkqlKAMSwVa
+FzMsGjRchczzBny579AkR0KCiARkhBm/oj4/FBnWMWV8TiBBFUE/VTQfRkxnugJ4
+nD6ZgxGEQOHBUndwm8ajphBA3KYW4kjbCEU1J2FRoaGvd9s0T0aOJ3P6FPereXJm
+5P/5gO+Hsj03mo4uSI54n33JaS2AEx3zZ4+1pB4G07GLLY9mnf5eMG/Np5Ky7OIV
+gyf66rpzl7ZnZT1Y2z7nyOitwYLzD6q6Rq+t34K6VgvXu0FhW1PhsaM9H6a2Zx0a
+qMxNqbXr6aaTFa/O3SzuCZYNt95883pxQWDVD+vEhvqqzEutj9Ohz09rn+8rEhu/
+duRlGij8OLX7qp0eHxgPXi9ZbnZtn9u7rvlJ5f3Ii+jC/f315YfUSNGedFvz1gjF
+De/2ijPZx4ql9W/PjKEvqdvxSLpCiSeGyr9545/zGzfeGl5S3blo4sCNZSMjnYvS
+975f2TzWd8FOHQS5ZKM3XnO5cCJxqvH44pU/ARiVSoI=
+=RX/i
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vishrutjha
+
+==================================================================
