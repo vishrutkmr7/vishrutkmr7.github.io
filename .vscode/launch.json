@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "type": "lldb",
+      "request": "launch",
+      "sourceLanguages": ["swift"],
+      "args": [],
+      "cwd": "${workspaceFolder:vishrutkmr7.github.io}/portfolio",
+      "name": "Debug IgniteStarter (portfolio)",
+      "program": "${workspaceFolder:vishrutkmr7.github.io}/portfolio/.build/debug/IgniteStarter",
+      "preLaunchTask": "swift: Build Debug IgniteStarter (portfolio)"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "sourceLanguages": ["swift"],
+      "args": [],
+      "cwd": "${workspaceFolder:vishrutkmr7.github.io}/portfolio",
+      "name": "Release IgniteStarter (portfolio)",
+      "program": "${workspaceFolder:vishrutkmr7.github.io}/portfolio/.build/release/IgniteStarter",
+      "preLaunchTask": "swift: Build Release IgniteStarter (portfolio)"
+    }
+  ]
+}
